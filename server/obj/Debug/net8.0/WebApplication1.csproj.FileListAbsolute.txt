@@ -1,0 +1,104 @@
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.sourcelink.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/appsettings.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/CppProperties.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/firebase-key.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.staticwebassets.endpoints.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.exe
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.deps.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/WebApplication1.pdb
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/FirebaseAdmin.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Api.Gax.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Api.Gax.Rest.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Apis.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Auth.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Core.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Storage.v1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Google.Cloud.Storage.V1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/System.Management.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/refint/WebApplication1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.pdb
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/obj/Debug/net8.0/ref/WebApplication1.dll
+C:/Users/yosef/Final Project - Pro Football/docker-server/server/bin/Debug/net8.0/Data/vectordb/vectors.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/appsettings.Development.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/appsettings.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/CppProperties.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/firebase-key.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1.staticwebassets.endpoints.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1.deps.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/WebApplication1.pdb
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/FirebaseAdmin.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Api.Gax.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Api.Gax.Rest.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Apis.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Auth.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Core.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Apis.Storage.v1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Google.Cloud.Storage.V1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/System.CodeDom.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/System.Management.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.sourcelink.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/staticwebassets.development.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/swae.build.ex.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/refint/WebApplication1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.pdb
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/obj/Debug/net8.0/ref/WebApplication1.dll
+/Users/solinagosa/Desktop/Project/Final-Project-Pro-Football/docker-server/server/bin/Debug/net8.0/Data/vectordb/vectors.json

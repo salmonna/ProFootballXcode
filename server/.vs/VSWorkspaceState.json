@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Middleware",
+    "\\Models",
+    "\\Properties",
+    "\\Services",
+    "\\Services\\Rag",
+    "\\Services\\Vector"
+  ],
+  "SelectedNode": "\\WebApplication1.csproj",
+  "PreviewInSolutionExplorer": false
+}
